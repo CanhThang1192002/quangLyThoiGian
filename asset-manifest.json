@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/quangLyThoiGian/static/css/main.257b883a.css",
+    "main.js": "/quangLyThoiGian/static/js/main.a23aae32.js",
+    "static/js/787.dca3f0b1.chunk.js": "/quangLyThoiGian/static/js/787.dca3f0b1.chunk.js",
+    "static/media/bg1.png": "/quangLyThoiGian/static/media/bg1.7bdf069da966406f45a8.png",
+    "static/media/anh3.png": "/quangLyThoiGian/static/media/anh3.b35af2d5a35349211efa.png",
+    "static/media/anh6.png": "/quangLyThoiGian/static/media/anh6.24d0abc2d7c1046b7d5d.png",
+    "static/media/logo.png": "/quangLyThoiGian/static/media/logo.c0b22b00d0763fc3dde2.png",
+    "static/media/anh7.png": "/quangLyThoiGian/static/media/anh7.0b955885e4e7e8892ffb.png",
+    "static/media/anh1.png": "/quangLyThoiGian/static/media/anh1.c1939f82bc70c06c8baf.png",
+    "index.html": "/quangLyThoiGian/index.html",
+    "main.257b883a.css.map": "/quangLyThoiGian/static/css/main.257b883a.css.map",
+    "main.a23aae32.js.map": "/quangLyThoiGian/static/js/main.a23aae32.js.map",
+    "787.dca3f0b1.chunk.js.map": "/quangLyThoiGian/static/js/787.dca3f0b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.257b883a.css",
+    "static/js/main.a23aae32.js"
+  ]
+}
